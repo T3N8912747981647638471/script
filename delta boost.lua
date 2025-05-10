@@ -153,7 +153,7 @@ end
 -- Тестовое уведомление
 createNotif(
 	"✨Delta Boost✨",
-	"Nursultan Boost✨",
+	"",
 	"Blue",
 	"rbxassetid://7733964646", -- иконка
 	9118823102, -- кастомный звук
